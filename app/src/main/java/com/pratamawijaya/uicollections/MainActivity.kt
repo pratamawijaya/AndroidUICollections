@@ -13,8 +13,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        startActivity(Intent(this, ScrollingFadeToolbarActivity::class.java))
-
         btnBottomSheet.setOnClickListener {
             startActivity(Intent(this, BottomSheetActivity::class.java))
         }
