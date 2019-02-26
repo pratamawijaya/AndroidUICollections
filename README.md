@@ -3,8 +3,8 @@
 
 ## Bottomsheet
 
-![](video/bottomsheet.gif | width=480)
+![](video/bottomsheet.gif)
 
 
 ## Scrolling Collapsing Toolbar
-![](video/scrollingtoolbar.gif | width=480)
+![](video/scrollingtoolbar.gif)
